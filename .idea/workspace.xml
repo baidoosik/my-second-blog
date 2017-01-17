@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f9c3767-2707-4613-9e14-3660cb295b11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/re_example.py" afterPath="$PROJECT_DIR$/core/re_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/melon_search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="re_example.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="melon_search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/melon_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="re_example.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/re_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,6 +102,7 @@
         <option value="$PROJECT_DIR$/thankq/admin.py" />
         <option value="$PROJECT_DIR$/core/spellchecker.py" />
         <option value="$PROJECT_DIR$/core/re_example.py" />
+        <option value="$PROJECT_DIR$/core/melon_search.py" />
       </list>
     </option>
   </component>
@@ -715,6 +727,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/re_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/spellchecker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -725,10 +745,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/re_example.py">
+    <entry file="file://$PROJECT_DIR$/core/melon_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
